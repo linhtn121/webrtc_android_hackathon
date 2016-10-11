@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <script src="./libs/sip-0.7.2.min.js"></script>
+  <script src="./script.js"></script>
+
+</head>
+<body>
+    <video autoplay id="remote"></video>
+    <video autoplay id="local" muted="true"></video>
+
+</body>
+</html>

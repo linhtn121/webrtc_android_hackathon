@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_68ab3d52c945680b2aa12cc354690c1951849089/classes.dex" />
+    </item>
+    <item
+        jar="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_2736c06ff6585542389c1f4dc02502dc4cd8d37c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_786d02dea043bf6ec8bb51b4613c1ab2f546d8f6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/linhtn9/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_88bd5f2bac199a294b84427fb8d3bac76484a78f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_27677fe2ecac22a7f0f27e5c2861dca342b77aa7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_90844fe0d457db8ece9dbdb8c191c9b89f003473/classes.dex" />
+    </item>
+    <item
+        jar="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_434d2c890f2c439af2997de801564c8d9a55a241/classes.dex" />
+    </item>
+    <item
+        jar="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ef75a47ff57c41da6ce60f23121345718236acd4">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_941153cd7603f432b4871a2ea037ce4d9b102e55/classes.dex" />
+    </item>
+    <item
+        jar="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_119d7218ff74db7a9d70800882f3a279f48d456f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_007e38c62b2f14dcde64f641acdb61671ff163aa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_9668a8f903b2523ea66717a40ddd61b268af07d0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_897d8a729c63a9e09e4a4c260f27c542c8f596e5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_3ef66e4920b75d87c17120e991c65b1f5a34b66e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_89960a2c40d60d54cecd7bd0e60f839be8409f70/classes.dex" />
+    </item>
+    <item
+        jar="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3263a7c455d0809bbca92872d1d4f6b232d10ac5">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_79f7046c27daffaef0eee62a972b218181354458/classes.dex" />
+    </item>
+    <item
+        jar="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_d71f5a1c929e74cc70fb730253d9e44c096eaf57/classes.dex" />
+    </item>
+    <item
+        jar="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/linhtn9/Desktop/WebRTC/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_afe3619463e4557a265331f81cdef2c19ba51d02/classes.dex" />
+    </item>
+
+</items>
