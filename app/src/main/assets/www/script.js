@@ -47,7 +47,7 @@ var config = {
   registerExpires: 1800,
   session_timers: false,
 
-   wsServers: "ws://118.69.135.152:7080",
+   wsServers: "ws://118.69.135.152:5066",
    server: "118.69.135.152",
    stunServers: "stun:118.69.135.152:3478",
    hackIpInContact: true
